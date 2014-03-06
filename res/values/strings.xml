@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">GlassBatteryLevel</string>
-    <string name="glass_voice_trigger">Battery Level</string>
-    <string name="battery_level_label">Battery Level:</string>
+    <string name="app_name">YakBatteryLevel</string>
+    <string name="glass_voice_trigger">Yak Battery</string>
+    <string name="battery_level_label">Yak Battery:</string>
     <string name="percentage_sign">%</string>
 
 </resources>
